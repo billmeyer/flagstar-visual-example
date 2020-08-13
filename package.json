@@ -1,0 +1,15 @@
+{
+  "name": "flagstar-visual-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-screener": "screener-runner --conf screener.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "screener-runner": "^0.11.5"
+  }
+}
