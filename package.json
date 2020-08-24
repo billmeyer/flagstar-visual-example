@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-screener": "screener-runner --conf screener.config.js"
+    "test-screener": "screener-runner --conf screener.config.js",
+    "dump-config": "node dump-config.js"
   },
   "keywords": [],
   "author": "",
